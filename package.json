@@ -1,0 +1,15 @@
+{
+  "name": "lowes_product_page_interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache-express": "^1.2.5",
+    "node": "^8.3.0"
+  }
+}
